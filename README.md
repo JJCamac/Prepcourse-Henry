@@ -1,2 +1,2 @@
 # Prepcourse-Henry
-Este es un repositorio de prueba del curso Prepcourse de Henry
+prueba de como hacer repositorio desde y clonarlo al escritprio local
